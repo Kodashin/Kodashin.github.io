@@ -1,1 +1,8 @@
+# Site settings
+title: "Kodas Site"
+author: "Kodashin"
+description:
+  "Site principal com projetos do Kodashin"
+# baseurl: "/grimorio-trpg/" # the subpath of your site, e.g. /blog/
+
 theme: jekyll-theme-midnight
